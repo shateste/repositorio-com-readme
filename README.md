@@ -4,7 +4,7 @@ Um projeto de teste com um arquivo README 💻
 ## Tecnologias utilizadas
 - HTML
 - CSS
-- JS
+- JS.
 
 ## Como utilizar
 1 - Clone o projeto
